@@ -1,4 +1,6 @@
-# .
+# Team building
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsi0ytoceypHQBOskQwOQD5ZRCjtsxJyCjeQADmAcgsP0AKDcvA5WlVvT394cVCFOBEcg&usqp=CAU">
 
 This template should help get you started developing with Vue 3 in Vite.
 
